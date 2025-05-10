@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.pot
+*.pyc
+venv/
+
+# Android/Termux
+.gradle/
+build/
+local.properties
+.apk
+.keystore
+
+# IDE
+.idea/
+.vscode/
